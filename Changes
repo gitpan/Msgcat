@@ -1,4 +1,8 @@
 Revision history for Perl extension Locale::Msgcat.
 
+1.01 12 November 1998
+	- unlinks "sample.cat" after the test has been executed, as
+	  "gencat" would otherwise update the catalog (XPG4).
+
 1.00 26 July 1997
 	- original version.

@@ -47,6 +47,7 @@ print "ok 6\n";
 print "not " unless ($a->catclose());
 print "ok 7\n";
 
+unlink("sample.cat");
 exit 0;
 
 ## Makes the message catalog

@@ -13,7 +13,7 @@ require DynaLoader;
 @EXPORT = qw(
 	
 );
-$VERSION = '1.00';
+$VERSION = '1.01';
 
 ## Define required constants
 #require 'nl_types.ph';
