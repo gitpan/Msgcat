@@ -1,5 +1,10 @@
 Revision history for Perl extension Locale::Msgcat.
 
+1.03 15 November 1999
+
+	- Changed the name of the directory for the distribution, ie
+	  Msgcat-version/ instead of Msgcat/.
+
 1.02 15 November 1999
 
 	- XPG4 says that the fields in the message catalog must be separated
